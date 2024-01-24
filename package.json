@@ -43,7 +43,7 @@
     "downshift": "^8.2.3",
     "framer-motion": "^10.16.16",
     "fuse.js": "^7.0.0",
-    "gatsby": "^5.12.12",
+    "gatsby": "^5.13.2",
     "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-mdx": "^5.12.3",
     "gatsby-plugin-meta-redirect": "^1.1.1",
